@@ -1,2 +1,1 @@
 # lnzdl.github.com
-www
